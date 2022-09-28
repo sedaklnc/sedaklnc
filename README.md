@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**sedaklnc/sedaklnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://github.com/sedaklnc/sedaklnc/blob/main/image.png)
 
-Here are some ideas to get you started:
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedaklnc&show_icons=true&theme=tokyonight&title_color=207178&text_color=a00f5c&locale=en&layout=compact" alt="sedaklnc" width='469px' /></p> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sedaklnc&theme=dark" alt="sedaklnc"  width='500'/></p>
+
+
+
+  
+
