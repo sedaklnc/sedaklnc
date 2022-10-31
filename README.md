@@ -1,5 +1,5 @@
 
-![logo](https://github.com/sedaklnc/sedaklnc/blob/main/image%20(2).png)
+![logo](https://github.com/sedaklnc/sedaklnc/blob/main/img.jpg)
 
 <p align="left">
 </p>
