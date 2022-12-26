@@ -37,7 +37,7 @@
 	<p align="center">
 		Hello, world! I am Seda, a  Sofware Engineer Student at Uskudar University. I love to code and design 👩‍💻. 
 
-Other than coding,  I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially  The Big Bang Theory and Gilmore Girls . I love dogs 🐕, although I don’t have one.
+Other than coding,  I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially  The Big Bang Theory and Fringe . I love dogs 🐕, although I don’t have one.
 
 I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, religion, cast etc. I believe people should be valued equally regardless of their birth.
 
