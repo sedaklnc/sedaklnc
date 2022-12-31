@@ -11,17 +11,11 @@
 	
 </p>
 
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedaklnc&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="sedaklnc" />
-</a>
-</p>
 
 
 <br />
 
-<!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=sedaklnc&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="sedaklnc" /></a> </p>
+
 
 ![snake gif](https://github.com/sedaklnc/sedaklnc/blob/output/github-contribution-grid-snake.gif)
 <hr />
