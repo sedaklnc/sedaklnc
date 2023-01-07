@@ -17,8 +17,6 @@
 
 
 
-![snake gif](https://github.com/sedaklnc/sedaklnc/blob/output/github-contribution-grid-snake.gif)
-<hr />
 
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
