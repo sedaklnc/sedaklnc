@@ -18,7 +18,7 @@
 
 
 
-<details align="center">
+<div align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
 		Hello, world! I am Seda, a  Sofware Engineer Student at Uskudar University. I love to code and design 👩‍💻. 
@@ -33,7 +33,7 @@ I regard everybody as a fellow human, regardless of their socio-political and / 
 
 
 
-<details align="center">
+<div align="center">
   <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
 	<table align="center">
 		<tr>
@@ -49,7 +49,7 @@ I regard everybody as a fellow human, regardless of their socio-political and / 
 		</td>
 	</table>
 	 	  <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. Don't ask me if I'm a C developer or HTML Programmer.I am a Software Developer I can do it everything.If I dont know I can learn.</p>
-</details>
+</div>
 
 
 
